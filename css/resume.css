@@ -58,7 +58,7 @@ p.lead {
   display: inline-block;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #495057;
+  background-color: #004477;
   color: #fff !important;
   border-radius: 100%;
   text-align: center;
@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #17a2b8;
+  background-color: #0077d1;
 }
 
 .dev-icons {
@@ -176,11 +176,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #17a2b8 !important;
+  background-color: #004477 !important;
 }
 
 .text-primary {
-  color: #17a2b8 !important;
+  color: #004477 !important;
 }
 
 a {
